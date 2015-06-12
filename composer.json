@@ -1,0 +1,13 @@
+{
+  "name": "ionut/simplehtmldom",
+  "type": "library",
+  "description": "Only a composer version of the well-known library Simple Html Dom.",
+  "keywords": ["simplehtmldom", "simple_html_dom", "simple html dom"],
+  "homepage": "https://github.com/IonutBajescu/simplehtmldom",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "simple_html_dom.php"
+    ]
+  }
+}
